@@ -11,7 +11,6 @@
 - Uncertainty is incorporated through both Monte Carlo (MC) simulations and Polynomial Chaos Expansion (PCE).
 
 2. **Two-Dimensional (2D) Infinite Plate with a Hole:**
-This repository provides:
 - Models the plate using both Linear Elastic and St. Venant-Kirchhoff (nonlinear) material models.
 - Synthetic observations are generated using the St. Venant-Kirchhoff model to test model selection and updating.
 
