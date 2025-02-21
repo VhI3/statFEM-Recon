@@ -28,15 +28,6 @@ This codebase supports research from the following paper:
 > **Narouie, V., et al.** (2023). *Inferring displacement fields from sparse measurements using the statistical finite element method.*  
 > Available on [j.ymssp.2023.110574](https://doi.org/10.1016/j.ymssp.2023.110574)
 
-## 🚀 Features
-- 🧮 Deterministic and probabilistic FEM simulations.
-- 🎲 Monte Carlo simulations with customizable sample sizes.
-- 📈 Polynomial Chaos Expansion for efficient uncertainty propagation.
-- 📊 Hyperparameter identification via maximum likelihood estimation.
-- 📉 Synthetic experimental data generation (linear & nonlinear cases).
-
----
-
 ## 🖥️ Installation
 1. **Clone the repository:**
    ```bash
