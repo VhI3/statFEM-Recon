@@ -6,8 +6,8 @@
 `statFEM-Recon` is a MATLAB-based implementation of the **Statistical Finite Element Method (statFEM)** designed to address uncertainty quantification (UQ), data assimilation, and model updating for structural mechanics problems. This project focuses on two benchmark cases:
 
 1. **One-Dimensional (1D) Tension Bar under Tip Load:**
-- Simulates linear and nonlinear material behavior.
-- Synthetic experimental data are generated to emulate real-world measurements.
+- Simulates linear  material behavior.
+- Linear and nonlinear synthetic experimental data are generated to emulate real-world measurements.
 - Uncertainty is incorporated through both Monte Carlo (MC) simulations and Polynomial Chaos Expansion (PCE).
 
 2. **Two-Dimensional (2D) Infinite Plate with a Hole:**
